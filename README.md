@@ -60,12 +60,15 @@ Create rotation matrices for:
 90° rotation
 Use cv2.getRotationMatrix2D() and cv2.warpAffine()
 Display original and rotated images
-Program
+
 Developed By: 
+
 Name: MOHANA K.V.S.L
 
 Register No:
+
 212224240093
+Program
 
 Import the required libraries: OpenCV, NumPy, and Matplotlib.
 
