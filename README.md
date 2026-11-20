@@ -252,20 +252,25 @@ plt.show()
 Output
 Image Translation
 Original image is displayed
+
 Translated image (shifted right and down) is displayed
 
 <img width="441" height="527" alt="image" src="https://github.com/user-attachments/assets/e833f1db-f4b6-461b-8a52-eec742e2e235" />
 
 Image Scaling
 Original image is displayed
+
 Downscaled image (0.5×) is displayed
+
 Upscaled image (2×) is displayed
 
 <img width="886" height="501" alt="image" src="https://github.com/user-attachments/assets/4045453c-b5bc-47b4-bd7e-22726f20aa86" />
 
 Image Shearing
 Original image is displayed
+
 Horizontally sheared image is displayed
+
 Vertically sheared image is displayed
 
 <img width="902" height="527" alt="image" src="https://github.com/user-attachments/assets/3d84f1af-4303-4f6d-9bea-7c9ff99326c1" />
@@ -275,14 +280,18 @@ Image Reflection
 ```
 Original image is displayed
 Horizontally flipped image is displayed
+
 Vertically flipped image is displayed
+
 Both-axis flipped image is displayed
 
 <img width="995" height="415" alt="image" src="https://github.com/user-attachments/assets/0dbdca55-bcfa-4d19-a7b5-8a1caa5eba6e" />
 
 Image Rotation
 Original image is displayed
+
 45° rotated image is displayed
+
 90° rotated image is displayed
 
 <img width="898" height="517" alt="image" src="https://github.com/user-attachments/assets/65b850ac-3f30-4348-ae15-b4bbc602c10b" />
